@@ -6,6 +6,23 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 
 *Note:* Metropolitan areas are assigned to metro size classes based on population estimates from the 2018 1-year ASC. Some 53 metro areas with populations of 1 million or greater belong to the “Very Large” metro size class. Some 56 metro areas with populations between 500,000 and 1 million belong to the “Large” size class. Finally, some 83 metro areas with populations between 250,000 and 500,000 belong to the “Mid-sized” size class.
 
+# New COVID-19 cases
+**Source:** New York Times
+**Definition:** Average daily number of new cases per 100,000 residents.
+  
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
+
+| **label** | **name** |
+  | --- | --- |
+  | CBSA | cbsa\_code |
+  | Metro name | cbsatitle |
+  | Metro size class | metrosize |
+  | Average daily number of new cases per 100,000 residents in month* (\* = month and year abbreviation) | cases\_\* |
+  | Change in the average number of new COVID-19 cases from previous month (Current trajectory) | chg\_traj |
+  | Metro rank in current trajectory out of all 192 metros | rank\_traj |
+  | Metro rank in current trajectory out of all metros within size class | szrank\_traj |
+
 # Number of Jobs
 **Source:** Bureau of Labor Statistics, Current Employment Statistics 
 **Definition:** Total full- and part-time nonfarm employment, seasonally adjusted. 
@@ -33,8 +50,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Share of the labor force that is unemployed, seasonally adjusted.
 **Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data:** October 2020
-**Last updated:** December 11, 2020
+**Latest data:** November 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -49,31 +66,13 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
   | Metro rank in current trajectory out of all 191 metros | rank\_traj |
   | Metro rank in recession impact out of all metros within size class | szrank\_imp |
   | Metro rank in current trajectory out of all metros within size class | szrank\_traj |
-  
-# Unemployment Claims
-**Source:** Various state agencies
-**Definition:** Total number of individuals seeking unemployment benefits for the first time (may include PUA Unemployment).
-**Note:** County-level initial unemployment insurance (UI) claims data were not available for Alaska, Arkansas, Illinois, Maine, Michigan, Minnesota, New Hampshire, New Jersey, New Mexico, North Carolina, Oklahoma, Rhode Island, South Dakota, and West Virginia. We consider a metropolitan area to have complete initial UI data if at least 75 percent of the metro&#39;s labor force is represented by the available counties. Consequently, overall ranks are out of 154 metros. Ranks for metros in the &quot;Very Large&quot; size class are out of 44. Ranks for metros in the &quot;Large&quot; metro size class are out of 46 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 64.
-  
-**Latest data** : Four-week period ending on October 21, 2020
-**Last updated:** December 11, 2020
-
-| **label** | **name** |
-  | --- | --- |
-  | CBSA | cbsa\_code |
-  | Metro name | cbsatitle |
-  | Metro size class | metrosize |
-  | Number of initial UI claims (\* = numeral of four-week period)1 = Four-week period ending April 11, 20205 = Four-week period August 1, 2020 | inclaims\_\* |
-  | Percent change in the number of initial UI claims from previous four-week period (Current trajectory) | chg\_traj |
-  | Metro rank in current trajectory out of all 154 metros | rank\_traj |
-  | Metro rank in current trajectory out of all metros within size class | szrank\_traj |
  
  # Job Postings
  **Source:** Emsi
 **Definition:** Unique job postings.
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -94,8 +93,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Total number of passengers screened by TSA at airports.
 **Notes:** There is no data for the 27 metropolitan areas without an airport within their geographic bounds. Consequently, overall ranks are out of 165 metros. All &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 47 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 65.
 
-**Latest data** : October 2020
-**Last updated:** November 24, 2020
+**Latest data** : November 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -115,8 +114,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
   **Source:** Google Mobility Reports
 **Definition:** Average percent change in visits to workplaces from baseline period (five-week Jan 3–Feb 6, 2020 period).
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -137,8 +136,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Average percent change in the volume of hours worked at businesses, from baseline period (Jan 4, 2020 – Jan 31, 2020).
 **Notes:** Data is only available for 50 largest metropolitan areas. Consequently, overall ranks are out of 50 metros.
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -157,8 +156,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Average percent change in small businesses open at all from baseline period (Jan 4, 2020 – Jan 31, 2020).
 **Notes:** Data is only available for 50 largest metropolitan areas. Consequently, overall ranks are out of 50 metros.
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -177,8 +176,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Total count of active for-sale home listings within the metropolitan area over the month.
 **Note:** Realtor.com does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -199,8 +198,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Median list price of active for-sale homes within the metropolitan area.
 **Note:** Realtor.com does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -220,8 +219,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
   **Source:** CoStar
 **Definition:** Amount of new/relet retail space vacant divided by the existing rentable building area.
 
-**Latest data** : Q3 2020
-**Last updated:** October 8, 2020
+**Latest data** : Q4 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -246,8 +245,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Median contract rent for a two-bedroom unit across new leases signed over the month. 
 **Notes:** Complete data (with at least 75 percent of an MSA's counties represented) is available for 146 metropolitan areas. Consequently, overall ranks are out of 146 metros. Some 50 &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 50. Ranks for metros in the &quot;Large&quot; metro size class are out of 41 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 55.
 
-**Latest data** : November 2020
-**Last updated:** December 11, 2020
+**Latest data** : December 2020
+**Last updated:** January 25, 2021
 
 | **label** | **name** |
   | --- | --- |
