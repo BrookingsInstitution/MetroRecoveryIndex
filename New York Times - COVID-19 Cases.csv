@@ -1,4 +1,4 @@
-cbsa_code,cbsa_name,metrosize,cases_feb20,cases_mar20,cases_apr20,cases_may20,cases_jun20,cases_jul20,cases_aug20,cases_sep20,cases_oct20,cases_nov20,cases_dec20,chg_traj,rank_traj,szrank_traj
+cbsa_code,cbsatitle,metrosize,cases_feb20,cases_mar20,cases_apr20,cases_may20,cases_jun20,cases_jul20,cases_aug20,cases_sep20,cases_oct20,cases_nov20,cases_dec20,chg_traj,rank_traj,szrank_traj
 10420,"Akron, OH Metropolitan Statistical Area",Large,0,0.77495034,3.198389717,4.131539979,2.937780185,7.002066091,6.589370644,6.093524706,12.84858493,47.68206774,72.71235233,25.03028459,119,34
 10580,"Albany-Schenectady-Troy, NY Metropolitan Statistical Area",Large,0,1.758769325,7.07648166,4.473869469,1.862829843,3.55784378,2.751741172,3.089571447,4.97951565,17.31825956,56.33924403,39.02098448,163,49
 10740,"Albuquerque, NM Metropolitan Statistical Area",Large,0,0.583304326,3.972325888,3.194118268,3.278802812,11.29361509,4.982683943,3.692738051,22.20421709,74.67536947,66.99566436,-7.679705111,35,8
