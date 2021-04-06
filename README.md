@@ -4,14 +4,14 @@ Each indicator has a separate CSV, named using the following naming convention: 
 
 Readers can view metro progress in two ways: impact from pre-crisis baseline, and trajectory over the most recent month. 
 
-*Note:* Metropolitan areas are assigned to metro size classes based on population estimates from the 2018 1-year ASC. Some 53 metro areas with populations of 1 million or greater belong to the “Very Large” metro size class. Some 56 metro areas with populations between 500,000 and 1 million belong to the “Large” size class. Finally, some 83 metro areas with populations between 250,000 and 500,000 belong to the “Mid-sized” size class.
+*Note:* Metropolitan areas are assigned to metro size classes based on population estimates from the 2019 1-year ASC. Some 53 metro areas with populations of 1 million or greater belong to the “Very Large” metro size class. Some 56 metro areas with populations between 500,000 and 1 million belong to the “Large” size class. Finally, some 83 metro areas with populations between 250,000 and 500,000 belong to the “Mid-sized” size class.
 
 # New COVID-19 cases
 **Source:** New York Times
 **Definition:** Average daily number of new cases per 100,000 residents.
   
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -28,8 +28,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Total full- and part-time nonfarm employment, seasonally adjusted. 
 **Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the “Large” metro size class are out of 55 metros.  
 
-**Latest data:** December 2020 
-**Last updated:** February 11, 2021 
+**Latest data:** February 2021 
+**Last updated:** April 5, 2021 
 
 | **label** | **name** |
   | --- | --- |
@@ -49,8 +49,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Share of the labor force that is unemployed, seasonally adjusted.
 **Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data:** December 2020
-**Last updated:** February 11, 2021
+**Latest data:** January 2021
+**Last updated:** March 20, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -70,8 +70,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
  **Source:** Emsi
 **Definition:** Unique job postings.
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -90,10 +90,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 # Airport Passengers
   **Source:** TSA
 **Definition:** Total number of passengers screened by TSA at airports.
-**Notes:** There is no data for the 27 metropolitan areas without an airport within their geographic bounds. Consequently, overall ranks are out of 165 metros. All &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 47 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 65.
+**Notes:** There is no data for the 28 metropolitan areas without an airport within their geographic bounds. Consequently, overall ranks are out of 164 metros. All &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 48 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 64.
 
-**Latest data** : January 2021
-**Last updated:** March 9, 2021
+**Latest data** : February 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -114,8 +114,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
  **Source:** Google Mobility Reports
 **Definition:** Average percent change in visits to workplaces from baseline period (five-week Jan 3–Feb 6, 2020 period).
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 6, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -136,8 +136,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Average percent change in the volume of hours worked at businesses, from baseline period (Jan 4, 2020 – Jan 31, 2020).
 **Notes:** Data is only available for 50 largest metropolitan areas. Consequently, overall ranks are out of 50 metros.
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -156,8 +156,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Average percent change in small businesses open at all from baseline period (Jan 4, 2020 – Jan 31, 2020).
 **Notes:** Data is only available for 50 largest metropolitan areas. Consequently, overall ranks are out of 50 metros.
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -176,17 +176,18 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Total count of active for-sale home listings within the metropolitan area over the month.
 **Note:** Realtor.com does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
   | CBSA | cbsa\_code |
   | Metro name | cbsatitle |
   | Metro size class | metrosize |
+  | Count of active for-sale home listings in month \* of 2019 (\* = month numeral) | liste\*\_2019 |
   | Count of active for-sale home listings in month \* of 2020 (\* = month numeral) | list\*\_2020 |
   | Count of active for-sale home listings in month \* of 2021 (\* = month numeral) | list\*\_2021 |
-  | Percent change in active listings count from one year prior (Recession impact) | chg\_imp |
+  | Percent change in active listings count from March 2019 (Recession impact) | chg\_imp |
   | Percent change in active listings count from one month prior (Current trajectory) | chg\_traj |
   | Metro rank in recession impact out of all 191 metros | rank\_imp |
   | Metro rank in current trajectory out of all 191 metros | rank\_traj |
@@ -198,29 +199,30 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Median list price of active for-sale homes within the metropolitan area.
 **Note:** Realtor.com does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
   | CBSA | cbsa\_code |
   | Metro name | cbsatitle |
   | Metro size class | metrosize |
+  | Median list price in month \* of 2019 (\* = month numeral) | price\*\_2019 |
   | Median list price in month \* of 2020 (\* = month numeral) | price\*\_2020 |
   | Median list price in month \* of 2021 (\* = month numeral) | price\*\_2021 |
-  | Percent change in median list price from one year prior (Recession impact) | chg\_imp |
+  | Percent change in median list price from March 2019 (Recession impact) | chg\_imp |
   | Percent change in median list price from the prior month (Current trajectory) | chg\_traj |
   | Metro rank in recession impact out of all 191 metros | rank\_imp |
   | Metro rank in current trajectory out of all 191 metros | rank\_traj |
   | Metro rank in recession impact out of all metros within size class | szrank\_imp |
   | Metro rank in current trajectory out of all metros within size class | szrank\_traj |
   
-  # Comercial Vacancies
-  **Source:** CoStar
+# Comercial Vacancies
+**Source:** CoStar
 **Definition:** Amount of new/relet retail space vacant divided by the existing rentable building area.
 
-**Latest data** : Q4 2020
-**Last updated:** January 25, 2021
+**Latest data** : Q1 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -233,7 +235,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
   | Commercial vacancy rate for Q4 2019 | Q42019 |
   | Commercial vacancy rate for Q1 2020 | Q12020 |
   | Commercial vacancy rate for Q2 2020 | Q22020 |
-  | Percentage-point change in commercial vacancy rate from one year prior (Recession impact) | chg\_imp |
+  | Commercial vacancy rate for Q3 2020 | Q32020 |
+  | Commercial vacancy rate for Q4 2020 | Q42020 |
+  | Commercial vacancy rate for Q1 2021 | Q12021 |
+  | Percentage-point change in commercial vacancy rate Q1 2019 (Recession impact) | chg\_imp |
   | Percentage-point change in commercial vacancy rate from one quarter prior (Current trajectory) | chg\_traj |
   | Metro rank in recession impact out of all 192 metros | rank\_imp |
   | Metro rank in current trajectory out of all 192 metros | rank\_traj |
@@ -243,10 +248,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
  # Multifamily Rent
  **Source:** Apartment List
 **Definition:** Median contract rent for a two-bedroom unit across new leases signed over the month. 
-**Notes:** Complete data (with at least 75 percent of an MSA's counties represented) is available for 157 metropolitan areas. Consequently, overall ranks are out of 157 metros. Some 52 &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 50. Ranks for metros in the &quot;Large&quot; metro size class are out of 49 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 56.
+**Notes:** Complete data (with at least 75 percent of an MSA's counties represented) is available for 159 metropolitan areas. Consequently, overall ranks are out of 159 metros. Some 53 &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 49 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 57.
 
-**Latest data** : February 2021
-**Last updated:** March 9, 2021
+**Latest data** : March 2021
+**Last updated:** April 5, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -256,10 +261,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
   | Median contract rent in month \* of 2019 (\* = month numeral) | rent\*\_2019 |
   | Median contract rent in month \* of 2020 (\* = month numeral) | rent\*\_2020 |
   | Median contract rent in month \* of 2021 (\* = month numeral) | rent\*\_2021 |
-  | Percent change in median contract rent from one year prior (Recession impact) | chg\_imp |
+  | Percent change in median contract rent from March 2019 (Recession impact) | chg\_imp |
   | Percent change in median contract rent from the prior month (Current trajectory) | chg\_traj |
-  | Metro rank in recession impact out of all 146 included metros | rank\_imp |
-  | Metro rank in current trajectory out of all 146 included metros | rank\_traj |
+  | Metro rank in recession impact out of all 159 included metros | rank\_imp |
+  | Metro rank in current trajectory out of all 159 included metros | rank\_traj |
   | Metro rank in recession impact out of all metros within size class | szrank\_imp |
   | Metro rank in current trajectory out of all metros within size class | szrank\_traj |
   
