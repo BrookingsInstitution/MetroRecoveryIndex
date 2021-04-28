@@ -4,7 +4,7 @@ Each indicator has a separate CSV, named using the following naming convention: 
 
 Readers can view metro progress in two ways: impact from pre-crisis baseline, and trajectory over the most recent month. 
 
-*Note:* Metropolitan areas are assigned to metro size classes based on population estimates from the 2019 1-year ASC. Some 53 metro areas with populations of 1 million or greater belong to the “Very Large” metro size class. Some 56 metro areas with populations between 500,000 and 1 million belong to the “Large” size class. Finally, some 83 metro areas with populations between 250,000 and 500,000 belong to the “Mid-sized” size class.
+*Note:* Metropolitan areas are assigned to metro size classes based on population estimates from the 2019 1-year ASC. Some 53 metro areas with populations of 1 million or greater belong to the “Very Large” metro size class. Some 57 metro areas with populations between 500,000 and 1 million belong to the “Large” size class. Finally, some 82 metro areas with populations between 250,000 and 500,000 belong to the “Mid-sized” size class.
 
 # New COVID-19 cases
 **Source:** New York Times
@@ -26,10 +26,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 # Number of Jobs
 **Source:** Bureau of Labor Statistics, Current Employment Statistics 
 **Definition:** Total full- and part-time nonfarm employment, seasonally adjusted. 
-**Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the “Large” metro size class are out of 55 metros.  
+**Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the “Large” metro size class are out of 56 metros.  
 
-**Latest data:** February 2021 
-**Last updated:** April 5, 2021 
+**Latest data:** March 2021 
+**Last updated:** April 19, 2021 
 
 | **label** | **name** |
   | --- | --- |
@@ -47,10 +47,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 # Unemployment Rate
  **Source:** Bureau of Labor Statistics, Local Area Unemployment Statistics
 **Definition:** Share of the labor force that is unemployed, seasonally adjusted.
-**Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
+**Note:** BLS does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 56 metros.
 
-**Latest data:** January 2021
-**Last updated:** March 20, 2021
+**Latest data:** March 2021
+**Last updated:** April 28, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -90,10 +90,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 # Airport Passengers
   **Source:** TSA
 **Definition:** Total number of passengers screened by TSA at airports.
-**Notes:** There is no data for the 28 metropolitan areas without an airport within their geographic bounds. Consequently, overall ranks are out of 164 metros. All &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 48 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 64.
+**Notes:** There is no data for the 28 metropolitan areas without an airport within their geographic bounds. Consequently, overall ranks are out of 166 metros. All &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 49 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 64.
 
-**Latest data** : February 2021
-**Last updated:** April 5, 2021
+**Latest data** : March 2021
+**Last updated:** April 19, 2021
 
 | **label** | **name** |
   | --- | --- |
