@@ -10,8 +10,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Source:** New York Times
 **Definition:** Average daily number of new cases per 100,000 residents.
   
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -70,8 +70,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
  **Source:** Emsi
 **Definition:** Unique job postings.
 
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -114,8 +114,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
  **Source:** Google Mobility Reports
 **Definition:** Average percent change in visits to workplaces from baseline period (five-week Jan 3–Feb 6, 2020 period).
 
-**Latest data** : March 2021
-**Last updated:** April 6, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -136,8 +136,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Average percent change in the volume of hours worked at businesses, from baseline period (Jan 4, 2020 – Jan 31, 2020).
 **Notes:** Data is only available for 50 largest metropolitan areas. Consequently, overall ranks are out of 50 metros.
 
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -156,8 +156,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Average percent change in small businesses open at all from baseline period (Jan 4, 2020 – Jan 31, 2020).
 **Notes:** Data is only available for 50 largest metropolitan areas. Consequently, overall ranks are out of 50 metros.
 
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -176,8 +176,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Total count of active for-sale home listings within the metropolitan area over the month.
 **Note:** Realtor.com does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -199,8 +199,8 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
 **Definition:** Median list price of active for-sale homes within the metropolitan area.
 **Note:** Realtor.com does not provide data for the Poughkeepsie–Newburgh–Middletown metropolitan area. Thus, overall ranks are out of 191 metros. Ranks for metros in the &quot;Large&quot; metro size class are out of 55 metros.
 
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
@@ -248,10 +248,10 @@ Readers can view metro progress in two ways: impact from pre-crisis baseline, an
  # Multifamily Rent
  **Source:** Apartment List
 **Definition:** Median contract rent for a two-bedroom unit across new leases signed over the month. 
-**Notes:** Complete data (with at least 75 percent of an MSA's counties represented) is available for 159 metropolitan areas. Consequently, overall ranks are out of 159 metros. Some 53 &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 49 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 57.
+**Notes:** Complete data (with at least 75 percent of an MSA's counties represented) is available for 152 metropolitan areas. Consequently, overall ranks are out of 159 metros. Some 53 &quot;Very Large&quot; metros are represented, thus ranks for metros within this size class are out of 53. Ranks for metros in the &quot;Large&quot; metro size class are out of 47 metros. Finally, ranks for metros in the &quot;Mid-sized&quot; size class are out of 52.
 
-**Latest data** : March 2021
-**Last updated:** April 5, 2021
+**Latest data** : April 2021
+**Last updated:** May 7, 2021
 
 | **label** | **name** |
   | --- | --- |
